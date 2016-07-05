@@ -4,13 +4,13 @@ date: 2016-07-04 17:57:44 -0700
 title: Going Agile When You Have No Authority
 ---
 
-Your current process is a mess. You talk about it with your fellow developers. Everyone has ideas. They also have horror stories about teams that tried to "do agile." Any effort to make changes is messy. Ideas are met with exhausting debate that doesn't go anywhere. Everyone is skeptical. You have read about agile methodologies; they're paradoxically both wildly theoretical and overly specific. Your know things need to change, but how? You may not have any authority, but you strongly suspect that some version of "agile" might be good for your team.
+Your current process is a mess. You talk about it with your fellow developers. Everyone has ideas. They also have horror stories about teams that tried to "do agile." Efforts to make changes are messy. Ideas are met with exhausting debate that doesn't go anywhere. Everyone is skeptical. You have read about agile methodologies; they're paradoxically both wildly theoretical and overly specific. You know things need to change, but how? You may not have any authority, but you strongly suspect that some version of "agile" might be good for your team.
 
 First, it doesn't matter exactly what process management approach you're using. The purpose of any methodology is to *solve problems.* You should not adopt an agile methodology expecting problems to disappear. Any change in process should make it harder to ignore the problems your team is facing. But it's still your job to solve them.
 
 Learn to be a critical thinker before you worry about getting an agile certification. Don't seek to be an official ~~Scrumbag~~ Scrum Master; learn to solve problems. *[Think Like a Freak](https://amzn.com/0062218344)* is a great read if you are trying to develop this skill set. Levitt and Dubner lay out some useful problem-solving approaches. At the very least, it's a better use of time than memorizing the Pillars of Scrum. Whatever processes you use, you should make sure you focus on problem-solving. Here are a few ways to ensure you're focusing on the right things:
 
- 1. Ask the right questions
+ 1. Focus on Problems instead of Preferences
  2. Lead your team instead of managing them
  3. Make the process work for you, not the other way around
  
@@ -18,7 +18,7 @@ Learn to be a critical thinker before you worry about getting an agile certifica
 
 Can we retire the term "[bikeshedding](https://en.wikipedia.org/wiki/Law_of_triviality)"? It has become synonymous with, "any discussion in any meeting when someone other than myself is talking" (or worse, "any time I'm bored or just don't want to be in a meeting"). Meetings can, in fact, be constructive. Boring meetings that last too long can, in fact, be better than no meeting at all. People say "bikeshedding" to imply that the primary problem is that the wrong people have a voice. Engineers love the term because they want to believe managers are useless or stupid. But engineering can't solve everything.
 
-Process is more of a design problem than an engineering one. *[Articulating Design Decisions](https://amzn.com/1491921560)* by Tom Greever is a must-read for anyone working on software (or so I suggest [in my review of it](https://www.amazon.com/review/RAIU0K4YRSI4T/ref=cm_cr_rdp_perm?ie=UTF8&amp;ASIN=1491921560)). Greever says that there are three things that every design needs to be successful. It solves a problem, it's easy for users, and it's supported by everyone. Greever also mentions three questions that every designer should consider when thinking about design. At risk of literally taking a page out of his book, I've adapted his questions for process management, but the point remains the same. For every decision you're making about your team's processes, you should answer three questions.
+Process is more of a design problem than an engineering one. *[Articulating Design Decisions](https://amzn.com/1491921560)* by Tom Greever is a must-read for anyone working on software ([see my review for more disgustingly positive praise of this book](https://www.amazon.com/review/RAIU0K4YRSI4T/ref=cm_cr_rdp_perm?ie=UTF8&amp;ASIN=1491921560)). Greever says that there are three things that every design needs to be successful: it solves a problem, it's easy for users, and it's supported by everyone. Greever also mentions three questions that every designer should consider when thinking about design. At risk of literally taking a page out of his book, I've adapted his questions for process management, but the point remains the same. For every decision you're making about your team's processes, you should answer three questions.
 
 ### 1. What problem does this solve?
 
@@ -74,7 +74,7 @@ Someone on your team has to be responsible for all this. If you're reading this,
 
 In *[Credibility: How Leaders Gain and Lose It, Why People Demand It](https://amzn.com/0470651717)*, Kouzes and Posner lay out the core disciplines of leadership. The first is "Discover Yourself." Know your core competencies, but also know your weaknesses. Not everyone is well-suited to leadership. To be brutally honest, you may not be equipped drive this change on your team by yourself. If you aren't, get help from another team member and contribute in a way that plays to your strengths.
 
-Bad news: at first, you'll be responsible for most of the clerical tasks. You'll have to do the boring maintenance. Know your limits and be careful not to overextend yourself. If you're not a visual person, [maybe you should avoid an approach that requires that skill set](http://www.girlsguidetopm.com/2016/06/comparing-agile-methods-scrum-kanban-and-scrumban/). If you become too fatigued by support tasks, your day to day work is going to suffer. Even if you help your team, if your normal role suffers, your manager may axe the new process (or worse, you may find yourself [irreparably viewed as incompetent](http://sites.insead.edu/facultyresearch/research/doc.cfm?did=46698)).
+Bad news: at first, you'll be responsible for most of the clerical tasks. You'll have to do the boring maintenance. Know your limits and be careful not to overextend yourself. If you're not a visual person, [ maybe you should avoid an approach that requires that skill set](http://www.girlsguidetopm.com/2016/06/comparing-agile-methods-scrum-kanban-and-scrumban/). If you become too fatigued by support tasks, your day to day work is going to suffer. Even if you help your team, if your normal role suffers, your manager may axe the new process (or worse, you may find yourself [irreparably viewed as incompetent](http://sites.insead.edu/facultyresearch/research/doc.cfm?did=46698)).
 
 ### Know Your Team
 
@@ -82,7 +82,7 @@ The second discipline Kouzes and Posner mention is "Appreciating Constituents." 
 
 Before moving to a new process, pay attention to the way your team currently behaves. Make anecdotal, story-like notes about specific people. Those personal stories will help you stay focused on your real-life, human team members.
 
-#### Note Success Enabled by Current Process
+#### Note Successes Enabled by Current Process
 
 Don't throw out the baby with the bathwater. Save what you can, even if it doesn't fit neatly into a new methodology. In theory, a team of generalists is the best fit for Scrum. If specialization works well for your team, don't try to disrupt your team's culture. If one person on your team is good at fixing bugs and actually enjoys it, don't rush to share bugs because a blog post insists that you should.
 
@@ -118,17 +118,17 @@ In *Credibility*, Kouzes and Posner say "threat, power, position, and money do n
 
 ![](https://s3.amazonaws.com/clearvoice-media/asg_lKbrpyCMVFtSKxf0%2Frevision-%2F1467679646969-If-You-Wanna-Rock-You-Gotta-Break-The-Rules-Animated-Picture.gif)
 
-This is a lesson we can learn from usable security design. In "[Privacy and security: Usable security: how to get it](http://dl.acm.org/citation.cfm?id=1592773)," Lampson says, "If [a security measure is] hard or opaque, [users] will ignore it or work around it; given todays poor usability they are probably doing the right thing. If you force them, less useful work will get done." The same is true of your team. If your process is a pain, your team will ignore it or work around it. At most, they will do the bare minimum to follow the rules.  If you force them to follow the process to the letter, less useful work will get done. Following process is a support task. It shouldn't get in the way of their primary task: development.
+This is a lesson we can learn from usable security design. In "[Privacy and security: Usable security: how to get it](http://dl.acm.org/citation.cfm?id=1592773)," Lampson says, "If [a security measure is] hard or opaque, [users] will ignore it or work around it; given today's poor usability they are probably doing the right thing. If you force them, less useful work will get done." The same is true of your team. If your process is a pain, your team will ignore it or work around it. At most, they will do the bare minimum to follow the rules. Following process is a support task. It shouldn't get in the way of their primary task: development.
 
 Don't *police* process violations. Think critically about them. Sometimes, you will need to guide your team to get back on track. More often, you should just make sure you discuss these deviations in a retrospective. Adapt your process to your team, not the other way around.
 
 ### Don't change your tools...yet
 
-Don't switch to JIIRA. Don't start a Trello board. Even if your current tools aren't adequate, try to use them. There are two reasons for this:
+Don't switch to JIRA. Don't start a Trello board. Even if your current tools aren't adequate, try to use them. There are two reasons for this:
 
-#### Learning One Thing at a Time
+#### It's easier to learn one thing at a time
 
-It's easier to learn one thing at a time. Your team will already have an increased cognitive load when changing processes. You are guiding their behaviors. As Sunstein and Thaler note in *[Nudge](https://amzn.com/014311526X)*, this is a serious responsibility. Make sure you're not overloading everyone's brain with irrelevant information.
+Your team will already have an increased cognitive load when changing processes. You are guiding their behaviors. As Sunstein and Thaler note in *[Nudge](https://amzn.com/014311526X)*, this is a serious responsibility. Make sure you're not overloading everyone's brain with irrelevant information.
 
 [![ladders may be considered to be a special and perhaps degenerate case of stairs](https://s3.amazonaws.com/clearvoice-media/asg_lKbrpyCMVFtSKxf0%2Fart_WUubUOp9wdTsZ5WK%2F1467567538399-comic2-2390.png)](http://www.qwantz.com/index.php?comic=2379)
 
