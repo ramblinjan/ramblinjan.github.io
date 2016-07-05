@@ -110,7 +110,7 @@ I resent the term "servant-leadership" because if you aren't serving, you aren't
 
 Whenever you're looking to a methodology, you should be looking at it as a *framework*. You may hear Scrum referred to as an [implementation of an agile framework](http://www.c-sharpcorner.com/article/agile-framework-a-kickstart-to-scrum/). Scrum itself should also viewed as a framework. An agile coach once told me, "There's a difference between *doing* agile and *being* agile." Be ready to adapt, even when there isn't a definitive answer to your particular question. Agility *(ahem)* is more important than having a handbook. [Don't get bogged down in practices without understanding the principles behind them](https://dzone.com/articles/10-common-scrum-mistakes-and-how-to-avoid-them).
 
-Exercise skepticism when someone suggests that there is *one way* to approach a particular problem a methodology. Faisal Ansari takes a good approach in [this post on splitting user stories](http://www.agileadvice.com/2016/06/03/scrumxplean/splitting-user-stories/). Ansari starts by presenting a *model for* testing user stories and ends with a *list of methods*.
+Exercise skepticism when someone suggests that there is *one way* to approach a particular problem within a methodology. Faisal Ansari takes a good approach in [this post on splitting user stories](http://www.agileadvice.com/2016/06/03/scrumxplean/splitting-user-stories/). Ansari starts by presenting a *model for* testing user stories and ends with a *list of methods* for splitting them into smaller pieces.
 
 ### Expect people to break the rules. Let them.
 
