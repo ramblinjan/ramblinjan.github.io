@@ -4,9 +4,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  {% if page.tldr %}
+  <meta name="description" content="{{page.tldr | xml_escape | strip_html | strip_newlines}}" />
+  {% else %}	
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.description %}
-  <meta name="description" content="{{page.description}}" />
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

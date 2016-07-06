@@ -5,7 +5,7 @@ category: development
 tags: "team, documentation, design, open source"
 author: Jan Jorgensen
 title: Live Style Guides for Teams, Powered by DocumentJS
-description: >
+tldr: >
     A Live Style Guide generator built for designers, developers, and everyone in-between.
 ---
 
