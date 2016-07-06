@@ -8,6 +8,7 @@
 # Site settings
 title: Ramblin' Jan
 email: jan@ramblinjan.com
+future: true
 description: > # this means to ignore newlines until "baseurl:"
   "Ramblin" was a nod to my nomadic lifestyle (and my love for
   the Allman Brothers). Now it just means I talk a lot.
@@ -15,6 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ramblinjan.com" # the base hostname & protocol for your site
 twitter_username: ramblinjan
 github_username:  ramblinjan
+permalink: pretty
 
 # Build settings
 markdown: kramdown

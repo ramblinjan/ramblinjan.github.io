@@ -1,10 +1,19 @@
 ---
 layout: post
-date: 2016-07-04 17:57:44 -0700
+date: 2016-07-06
+category: development
+tags: "agile, team, process, leadership"
+author: Jan Jorgensen
 title: Going Agile When You Have No Authority
+tldr: >
+    Your team's development process is spaghetti. How can you possibly fix things? "Agile" isn't a magic word, and you're not even a manager. No matter what your role is, there are three things you can do: focus on problems instead of preferences, lead your team instead of managing them, and make the process work for you instead of being slave to the process.
 ---
 
-Your current process is a mess. You talk about it with your fellow developers. Everyone has ideas. They also have horror stories about teams that tried to "do agile." Efforts to make changes are messy. Ideas are met with exhausting debate that doesn't go anywhere. Everyone is skeptical. You have read about agile methodologies; they're paradoxically both wildly theoretical and overly specific. You know things need to change, but how? You may not have any authority, but you strongly suspect that some version of "agile" might be good for your team.
+Your current process is a mess. You talk about it with your fellow developers. Everyone has ideas. They also have horror stories about teams that tried to "do agile."  Efforts to make changes are messy. Ideas are met with exhausting debate that doesn't go anywhere. 
+
+You have read about agile methodologies; they're paradoxically both wildly theoretical and overly specific. You know things need to change, but how? You may not have any authority, but you strongly suspect that some version of "agile" might be good for your team.
+
+## Your Purpose
 
 First, it doesn't matter exactly what process management approach you're using. The purpose of any methodology is to *solve problems.* You should not adopt an agile methodology expecting problems to disappear. Any change in process should make it harder to ignore the problems your team is facing. But it's still your job to solve them.
 

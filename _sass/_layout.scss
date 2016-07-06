@@ -199,6 +199,20 @@
 /**
  * Posts
  */
+
+// blog-specific
+.post {
+    
+    .post-content {
+        max-width: 35em;
+
+        @include media-query($on-palm) {
+            padding: 0 1em;
+        }
+    }
+}
+
+
 .post-header {
     margin-bottom: $spacing-unit;
 }

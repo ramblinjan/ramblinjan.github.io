@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+in_header: true
 permalink: /about/
 ---
 

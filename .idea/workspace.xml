@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79755947-b1aa-48c0-b641-9e577dc4a85d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
     </list>
     <ignored path="ramblinjan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -308,11 +309,12 @@
       <workItem from="1467144594218" duration="598000" />
       <workItem from="1467217239462" duration="521000" />
       <workItem from="1467388588386" duration="592000" />
+      <workItem from="1467745172923" duration="595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3174000" />
+    <option name="totallyTimeSpent" value="3769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="6" />
