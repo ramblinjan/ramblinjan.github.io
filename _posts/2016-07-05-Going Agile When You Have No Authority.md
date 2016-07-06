@@ -5,6 +5,7 @@ category: development
 tags: "agile, team, process, leadership"
 author: Jan Jorgensen
 title: Going Agile When You Have No Authority
+hacker_news_id: 12045477
 tldr: >
     Your team's development process is spaghetti. How can you possibly fix things? "Agile" isn't a magic word, and you're not even a manager. No matter what your role is, there are three things you can do: focus on problems instead of preferences, lead your team instead of managing them, and make the process work for you instead of being slave to the process.
 ---

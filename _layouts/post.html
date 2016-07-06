@@ -16,9 +16,16 @@ layout: default
         Facebook
       </a>
       •
+      {% if page.hacker_news_id %}
+      <a href="https://news.ycombinator.com/item?id={{page.hacker_news_id}}">HN</a>
+      {% else %}
+      <a href="https://news.ycombinator.com/submitlink?u={{site.url}}{{page.url}}&t={{page.title}}">HN</a>
+      {% endif %}
+      •
       <a href="mailto:?Subject={{page.title}}&amp;Check&#32;out&#32;this&#32;blog&#32;post&#58;&#32;{{site.url}}{{page.url}}">
         Email
       </a>
+
     </p>
   </header>
 
@@ -27,7 +34,11 @@ layout: default
   </div>
 
   <div class="comments">
-    Thoughts or comments? Let me know on <a href="https://twitter.com/ramblinjan">Twitter.</a>
+    Thoughts or comments? Let me know on <a href="https://twitter.com/ramblinjan">Twitter.</a> 
+    {% if page.hacker_news_id %}
+    <br />
+    You can also join in the discussion on <a href="https://news.ycombinator.com/item?id={{page.hacker_news_id}}">Hacker News.</a>
+    {% endif %}
   </div>
 
 </article>
