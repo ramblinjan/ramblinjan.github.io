@@ -122,7 +122,7 @@ in early hiring rounds would avoid rejecting a candidate with questionable soft 
 just in case they would do well enough in the technical rounds to make up for it.
 
 If you pass a candidate on to the next round, you should believe
-that they'll do well on the next round. You should believe they'll do well in
+that they'll nail it. You should believe they'll do well in
 the rest of the interview process. You should believe they'll do well on the job.
 You wouldn't approve a pull request with bad code because you think it seems
 nice, because you don't want to hurt anyone's feelings, or because you think
