@@ -7,8 +7,8 @@ preview: true
 title: "Bad News, Y'all: Your Hiring Process is Also Your Engineering Process"
 ---
 
-**Looks like you're this before the "publish" date. If you happen
-to notice a mistake, please leave a comment [on this Google Doc.](https://docs.google.com/document/d/1AjRKQl2MbhyIchz2KRZd2-4py3Btx_a2JvgrO0iD67A/edit?usp=sharing)**
+**Looks like you're reading a preview post. If you happen
+to notice a ~~misteak~~ mistake, please leave a comment [on this Google Doc.](https://docs.google.com/document/d/1AjRKQl2MbhyIchz2KRZd2-4py3Btx_a2JvgrO0iD67A/edit?usp=sharing)**
 
 I bet you suck at hiring. I don't even know you and I'm pretty confident that you suck at hiring.
 If you're an engineer, you suck at hiring.
