@@ -8,17 +8,19 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category != 'outline' %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      {% if post.preview != true %}
+        {% if post.category != 'outline' %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-          {{post.tldr}}
-        </p>
-      </li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p>
+            {{post.tldr}}
+          </p>
+        </li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </ul>
