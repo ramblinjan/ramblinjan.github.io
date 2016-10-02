@@ -117,7 +117,7 @@ the cost of travel in the final interviews or the fact that if you involve
 upper management in the final round the cost per hour can skyrocket.
 
 Most of my experience on a recruiting team was with a company that required
-strong soft skill as well as a strong technical skillset. However, sometimes people
+strong soft skills as well as strong technical skills. However, sometimes people
 in early hiring rounds would avoid rejecting a candidate with questionable soft skills
 just in case they would do well enough in the technical rounds to make up for it.
 
