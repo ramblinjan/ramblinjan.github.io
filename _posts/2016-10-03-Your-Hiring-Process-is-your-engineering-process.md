@@ -42,7 +42,7 @@ be test-driven, and communicate.
 
 ## Moving Fast
 
-I always end an interview with a good candidate the same way. "You should hear from us within two days at most. Email me directly if you don't." In a field were good candidates have so much leverage, there's no excuse for taking a week to check in. If you move slowly, you're choosing to miss out on good candidates, wasting time, and establishing a pattern of mismanagement.
+I always end an interview with a good candidate the same way. "You should hear from us within two days at most. Email me directly if you don't." In a field where good candidates have so much leverage, there's no excuse for taking a week to check in. If you move slowly, you're choosing to miss out on good candidates, wasting time, and establishing a pattern of mismanagement.
 
 No, you shouldn't hire just anyone. But you should be ready to hire
 some candidates who seem imperfect. Be ready to miss out on a good candidate here and there. A team that has a dogmatic obsession
