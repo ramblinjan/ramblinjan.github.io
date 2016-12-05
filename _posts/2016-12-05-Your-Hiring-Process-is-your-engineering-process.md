@@ -1,19 +1,15 @@
 ---
 layout: post
-date: 2016-10-03
+date: 2016-12-05
 category: development
 author: Jan Jorgensen
-preview: true
 title: "Bad News, Y'all: Your Hiring Process is Also Your Engineering Process"
 ---
 
-**Looks like you're reading a preview post. If you happen
-to notice a ~~misteak~~ mistake, please leave a comment [on this Google Doc.](https://docs.google.com/document/d/1AjRKQl2MbhyIchz2KRZd2-4py3Btx_a2JvgrO0iD67A/edit?usp=sharing)**
-
 I bet you suck at hiring. I don't even know you and I'm pretty confident that you suck at hiring.
-If you're an engineer, you suck at hiring.
-If you're a technical recruiter, you suck at hiring.
-If you built a company from the ground up, you suck at hiring.
+If you're an engineer, you probably suck at hiring.
+If you're a technical recruiter, you probably suck at hiring.
+If you built a company from the ground up, you probably suck at hiring.
 
 Maybe you usually hire good people and avoid hiring bad ones.
 I bet you have a tough time explaining how you manage to do that.
