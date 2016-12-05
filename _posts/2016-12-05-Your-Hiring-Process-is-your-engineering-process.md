@@ -9,7 +9,7 @@ tldr: >
   If the values and priorities of your team can be influenced by the hiring process,
   your hiring practices should resemble good engineering practices. Namely: move fast,
   be test-driven, and communicate.
-
+hacker_news_id: 13109096
 ---
 
 I bet you suck at hiring. I don't even know you and I'm pretty confident that you suck at hiring.
