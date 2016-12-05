@@ -4,6 +4,12 @@ date: 2016-12-05
 category: development
 author: Jan Jorgensen
 title: "Bad News, Y'all: Your Hiring Process is Also Your Engineering Process"
+tldr: >
+  You can not separate your hiring process from your team's culture.
+  If the values and priorities of your team can be influenced by the hiring process,
+  your hiring practices should resemble good engineering practices. Namely: move fast,
+  be test-driven, and communicate.
+
 ---
 
 I bet you suck at hiring. I don't even know you and I'm pretty confident that you suck at hiring.
