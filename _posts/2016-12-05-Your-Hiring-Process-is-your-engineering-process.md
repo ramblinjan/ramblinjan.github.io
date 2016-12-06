@@ -65,6 +65,9 @@ isn't the end of the world. However, if you treat hiring like an annoyance that
 you have to just fit in whenever you happen to have time, you can't expect to
 consistently hire great people. Worse, you're actively deciding that chunks of
 code are more valuable than team members.
+However long you're going to take, be as transparent as possible, because
+your candidates will notice that too (h/t to a few commenters on Hacker News for
+  bringing this up).
 
 You can not create a company where people are valued if you, as a rule, value day-to-day code more.
 That priority won't magically change when they sign the
@@ -81,8 +84,11 @@ early on. Moving fast in hiring isn't about throwing discernment out the window.
 To move quickly, though, you have to use your time wisely.
 
 ![](https://uproxx.files.wordpress.com/2015/07/30-rock-jack-brainstorming.gif?w=650)
+<small>
+*Disclaimer for candidates: your resume will likely get way less than five minutes of attention--so make it interesting. Thanks to [fecak](https://news.ycombinator.com/user?id=fecak) for [pointing this out](https://news.ycombinator.com/item?id=13110543).*
+</small>
 
-Resume screening can happen in less than five minutes and can be done by just about anyone.
+Resume screening can happen in less than five minutes and can be done by just about anyone (note to candidates: ).
 A culture fit phone interview lasts less than 30 minutes for all but the most interesting
 and extroverted candidates. A technical screen lasts at least an hour.
 Up until this point, everything can be done by rank-and-file employees. The final
@@ -210,8 +216,10 @@ Start with sanity checks (fail early), then move on to more complicated acceptan
 
 If you need someone who can hit the ground running right away, test them with the
 exact tools they'll be using on the job. If you need someone flexible who can
-learn anything, test them on something new and unique. If you need someone with
-a level head, try to frustrate your candidates and ditch the ones with short tempers.
+learn anything, test them on something new and unique. ~~If you need someone with
+a level head, try to frustrate your candidates and ditch the ones with short tempers~~
+<small>*(this sentence turned out to be pretty controversial on [Hacker News](https://news.ycombinator.com/item?id=13109572),
+  so I'm thinking more about how to say this based on your feedback).*</small>
 
 Remember, good tests aren't about maximizing the number of passed assertions.
 A good test fails when the code that it's testing stops doing what it's supposed to.
