@@ -66,8 +66,8 @@ you have to just fit in whenever you happen to have time, you can't expect to
 consistently hire great people. Worse, you're actively deciding that chunks of
 code are more valuable than team members.
 However long you're going to take, be as transparent as possible, because
-your candidates will notice that too (h/t to a few commenters on Hacker News for
-  bringing this up).
+your candidates will notice that too (h/t to [aml183](https://news.ycombinator.com/user?id=aml183) for
+  [bringing this up](https://news.ycombinator.com/item?id=13110774)).
 
 You can not create a company where people are valued if you, as a rule, value day-to-day code more.
 That priority won't magically change when they sign the
