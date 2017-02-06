@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Live Style Guide Checklist
-permalink: /share/lsg-checklist/
+permalink: "/share/lsg-checklist/"
+layout: page
 ---
+
 <style>
   .post-content ul{
     list-style: none;

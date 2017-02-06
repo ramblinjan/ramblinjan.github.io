@@ -1,12 +1,20 @@
 ---
-layout: post
-date: 2015-05-14
-category: development
-tags: "team, documentation, design, open source"
-author: Jan Jorgensen
 title: Live Style Guides for Teams, Powered by DocumentJS
-tldr: >
-    A Live Style Guide generator built for designers, developers, and everyone in-between.
+date: 2015-05-14 00:00:00 Z
+categories:
+- development
+tags:
+- team,
+- documentation,
+- design,
+- open
+- source
+layout: post
+author: Jan Jorgensen
+tldr: 'A Live Style Guide generator built for designers, developers, and everyone
+  in-between.
+
+'
 ---
 
 ### [Read the original blog post here.](http://blog.bitovi.com/live-style-guide-documentjs-documentcss/)

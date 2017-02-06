@@ -1,22 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Ramblin' Jan
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: jan@ramblinjan.com
 future: true
-description: > # this means to ignore newlines until "baseurl:"
-  "Ramblin" was a nod to my nomadic lifestyle (and my love for
-  the Allman Brothers). Now it just means I talk a lot.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ramblinjan.com" # the base hostname & protocol for your site
-twitter_username: ramblinjan
-github_username:  ramblinjan
-permalink: pretty
+description: '"Ramblin" was a nod to my nomadic lifestyle (and my love for the Allman
+  Brothers). Now it just means I talk a lot.
 
-# Build settings
+'
+baseurl: ''
+url: http://ramblinjan.com
+twitter_username: ramblinjan
+github_username: ramblinjan
+permalink: pretty
 markdown: kramdown
