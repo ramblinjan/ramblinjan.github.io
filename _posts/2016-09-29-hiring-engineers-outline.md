@@ -1,10 +1,9 @@
 ---
-title: Hiring Engineers Outline
-date: 2016-09-29 00:00:00 Z
-categories:
-- outline
 layout: post
+date: 2016-09-29
+category: outline
 author: Jan Jorgensen
+title: Hiring Engineers Outline
 ---
 
 Primary Audience:

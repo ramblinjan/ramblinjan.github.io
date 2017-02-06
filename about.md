@@ -1,8 +1,8 @@
 ---
-title: About
-permalink: "/about/"
 layout: page
+title: About
 in_header: true
+permalink: /about/
 ---
 
 I'm Jan. I'm a Southern boy, a dog-lover, and a serial hobbyist.
