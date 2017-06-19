@@ -12,6 +12,8 @@ tldr: >
 hacker_news_id: 13109096
 ---
 
+[*Is Chinese your first language? You can read a Chinese-translation revision of this post at InfoQ!*](http://www.infoq.com/cn/articles/how-to-carry-out-technical-recruitment).
+
 I bet you suck at hiring. I don't even know you and I'm pretty confident that you suck at hiring.
 If you're an engineer, you probably suck at hiring.
 If you're a technical recruiter, you probably suck at hiring.
