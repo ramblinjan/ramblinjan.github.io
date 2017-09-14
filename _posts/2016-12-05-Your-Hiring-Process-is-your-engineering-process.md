@@ -90,7 +90,7 @@ To move quickly, though, you have to use your time wisely.
 *Disclaimer for candidates: your resume will likely get way less than five minutes of attention--so make it interesting. Thanks to [fecak](https://news.ycombinator.com/user?id=fecak) for [pointing this out](https://news.ycombinator.com/item?id=13110543).*
 </small>
 
-Resume screening can happen in less than five minutes and can be done by just about anyone (note to candidates: ).
+Resume screening can happen in less than five minutes and can be done by just about anyone.
 A culture fit phone interview lasts less than 30 minutes for all but the most interesting
 and extroverted candidates. A technical screen lasts at least an hour.
 Up until this point, everything can be done by rank-and-file employees. The final
