@@ -5,6 +5,6 @@ in_header: true
 permalink: /about/
 ---
 
-I'm Jan. I'm a Southern boy, a dog-lover, and a serial hobbyist.
+I'm Jan. I'm a teacher, a dog-lover, and a serial hobbyist.
 
-[See my CV on Stack Overflow Jobs.](http://stackoverflow.com/cv/ramblinjan)
+[See my CV](https://drive.google.com/file/d/12SQgXDKvNTBFjGOeiPF9RLs2ecAPLeu9/view?usp=sharing)
